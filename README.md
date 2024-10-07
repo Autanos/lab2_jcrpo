@@ -6,5 +6,5 @@
 
 Язык: Kotlin
 
-- [SRS of programm](SRS/)
+- [SRS of programm](SRS.md/)
 - [User interface images](mocaps/)
