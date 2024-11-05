@@ -8,3 +8,4 @@
 
 - [SRS of programm](SRS.md/)
 - [User interface images](mocaps/)
+- [Diagrams](diagrams/)
